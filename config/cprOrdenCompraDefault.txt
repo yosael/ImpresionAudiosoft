@@ -1,0 +1,13 @@
+<|NK57 Monospace Cd Rg:PLAIN:12:1.6|>
+
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:12:1.1|>[|:35:R|][|oc.diames:20:R|][|:4:R|][|oc.anio:4:L|][|:10:R|]
+[|:11:R|][|proveedor.nombre:55:L|]
+[|:20:R|][|oc.recibira:45:L|]
+
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:12:1.4|>{|13==[|:2:R|][|detalle.cantidad:10:R|][|:2:R|][|detalle.nombre:50:L:2|]|}

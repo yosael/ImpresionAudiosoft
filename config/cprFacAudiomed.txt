@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+
+              [|cliente.nombre:30:L|]                             [|venta.fecha:12:L|]
+              [|cliente.direccionl1:40:L|]                        [|cliente.formapagocrd:6:L|]
+
+
+
+
+{|13==[|detalle.cantidad:11:R:3|] [|detalle.descripcion:34:L:3|]  [|detalle.preciounitario:7:R|]  [|detalle.nosujeto:7:R|] [|detalle.exento:7:R|] [|detalle.gravado:7:R|]|}
+
+
+
+
+
+
+
+
+
+
+[|venta.numalet1:68:L|] 
+                                                                            [|venta.subtotal2:10:L|]
+                                                                            [|venta.totalnosujeta:10:L|]
+                                                                            [|venta.totalexenta:10:L|]
+                                                                            [|venta.subtotal:10:L|]
+                                                                            [|venta.retenido:10:L|]
+                                                                            [|venta.total:10:L|]

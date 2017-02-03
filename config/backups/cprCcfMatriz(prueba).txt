@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+        [|venta.fecha:30:L|]     [|cliente.nrc:15:L|]                    
+        [|cliente.nit:30:L|]     [|cliente.codigocli:15:L|]         
+        [|cliente.telefono:10:L|]       [|cliente.giro:35:L|]                    
+        [|cliente.nombre:60:L|]
+          [|cliente.direccionl1:50:L|]
+   [|cliente.direccionl2:50:L|]
+
+          [|cliente.municipio:25:L|]         [|cliente.departamento:15:L|]
+     	    [|venta.formapagotxt:30:L|]
+     	     [|venta.codvendedor:25:L|]   [|usuario.nombre:30:L|]
+        
+
+{|14==[|detalle.cantidad:5:R|] [|detalle.descripcion:30:L|] [|detalle.preciounitario:7:R|][|detalle.nosujeto:3:R|][|detalle.exento:2:R|][|detalle.gravado:9:R|]|}
+                                                    [|venta.subtotal:10:L|]
+        [|venta.numalet1:30:L|]              [|venta.iva:10:L|]
+        [|venta.numalet2:30:L|]              [|venta.subtotal2:10:L|]
+													[|venta.retenido:10:L|]
+                                                    [|venta.percibido:10:L|]
+                                                    [|venta.totalexenta:10:L|]
+                                                    [|venta.totalnosujeta:10:L|]
+                                                    [|venta.total:10:L|]

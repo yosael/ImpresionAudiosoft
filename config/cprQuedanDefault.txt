@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:12:1.4|>[|:76:R|][|quedan.total:10:L|]
+
+[|:22:R|][|prov.nombre:60:L|]
+<|NK57 Monospace Cd Rg:PLAIN:12:0.8|>
+<|NK57 Monospace Cd Rg:PLAIN:12:1.55|>[|:47:R|][|quedan.comprobantes:40:L|]
+[|:22:R|][|quedan.numalet:60:L|]
+[|:44:R|][|quedan.fecha:40:L|]
+<|NK57 Monospace Cd Rg:PLAIN:12:1.71|>
+
+[|:22:R|][|quedan.dia:5:L|][|:7:R|][|quedan.mes:10:L|][|:14:R|][|quedan.anio:2:L|]

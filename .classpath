@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-awt-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-svg-dom.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-svggen.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/batik-xml.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/foxtrot-core-4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/icepdf-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/icepdf-viewer.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/itextpdf-5.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jasypt-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/postgresql-9.2-1001.jdbc4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/quartz-2.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.6.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-dbutils-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

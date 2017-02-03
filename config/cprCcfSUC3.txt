@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:10:1.85|>
+<|NK57 Monospace Cd Rg:PLAIN:10:1.36|>[|:11:R|][|cliente.nombre:68:L|][|:2:R|][|venta.fecha:15:L|]
+[|:13:R|][|cliente.direccionl1:66:L|][|:8:R|][|cliente.nrc:15:L|]
+[|:13:R|][|cliente.direccionl2:62:L|][|:5:R|][|cliente.giro:30:L|]
+[|:13:R|][|cliente.departamento:15:L|][|cliente.municipio:25:L|][|:30:R|][|cliente.nit:30:L|]
+[|:19:R|][|vendedor.nombre:30:L|][|:25:L|][|:16:R|][|venta.formapagotxt:20:L|]
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:9:1.33|>{|15==[|detalle.cantidad:12:R|][|:5:R|][|detalle.descripcion:75:L:3|][|:2:R|][|detalle.preciounitario:8:R|][|detalle.nosujeto:5:R|][|detalle.exento:5:R|][|detalle.gravado:16:R|]|}
+<|NK57 Monospace Cd Rg:PLAIN:9:1.75|>[|:13:R|][|venta.numalet1:74:L|][|:34:L|][|venta.subtotal:10:R|]
+<|NK57 Monospace Cd Rg:PLAIN:9:1.17|>[|:13:R|][|venta.numalet2:74:L|][|:34:L|][|venta.iva:10:R|]
+[|:121:L|][|venta.subtotal2:10:R|]
+[|:121:L|][|venta.percibido:10:R|]
+[|:121:L|][|venta.retenido:10:R|]
+[|:121:L|][|venta.totalnosujeta:10:R|]
+[|:121:L|][|venta.totalexenta:10:R|]
+[|:121:L|][|venta.total:10:R|]

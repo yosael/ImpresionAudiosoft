@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+<|NK57 Monospace Cd Rg:PLAIN:12:1.4|>[|:8:R|][|cliente.nombre:32:L|][|:10:R|][|venta.fecha:15:L|]
+[|:10:R|][|cliente.direccion:30:L|]
+[|:6:R|][|cliente.telefono:40:L|]
+<|NK57 Monospace Cd Rg:PLAIN:12:1.8|>
+[|:44:R|]X
+<|NK57 Monospace Cd Rg:PLAIN:12:2.56|>
+<|NK57 Monospace Cd Rg:PLAIN:12:1.52|>{|12==[|:2:R|][|detalle.cantidad:7:R|][|:2:R|][|detalle.descripcion:35:L:3|][|detalle.preciounitario:8:R|][|detalle.totalentero:10:R|][|:1:R|][|detalle.totaldecimal:2:L|]|}
+[|:7:R|]Fecha y Hora de entrega:[|:16:R|]TOTAL:[|:3:R|][|venta.totalentero:8:R|][|:1:r|][|venta.totaldecimal:2:L|]
+[|:10:R|][|venta.detServ:32:L|][|:5:R|]ANTICIPO:[|venta.anticipoentero:8:R|][|:1:r|][|venta.anticipodecimal:2:L|]
+[|:10:R|][|venta.fechaentrega:32:L|][|:5:R|]SALDO:[|:3:R|][|venta.remanenteentero:8:R|][|:1:r|][|venta.remanentedecimal:2:L|]
+<|NK57 Monospace Cd Rg:PLAIN:6:2.56|>
+<|NK57 Monospace Cd Rg:PLAIN:12:1.52|>[|:5:R|][|autorizo:35:L|]

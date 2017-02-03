@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+              [|cliente.nombre:30:L:3|]                        [|venta.fecha:12:L:3|]
+              
+            [|cliente.direccionl1:40:L|]						           [|cliente.duinit:12:L:3|]
+   [|cliente.direccionl1:50:L|]
+              							                             [|cliente.formapagocrd:6:L|]		     
+   	   	   	   	   	   	   	   	   	       	   	   	   	   	   	          [|cliente.giro:15:L|]	
+ 																     
+
+
+ 																     
+{|13==[|detalle.cantidad:9:R:3|] [|detalle.descripcion:34:L:3|]  [|detalle.preciounitario:6:R|]  [|detalle.nosujeto:6:R|] [|detalle.exento:6:R|] [|detalle.gravado:6:R|]|}
+
+   [|venta.numalet1:40:L|]                                 [|venta.subtotal:10:L|]
+                                                                            [|venta.subtotal:10:L|]
+                                                                            [|venta.totalnosujeta:10:L|]
+                                                                            [|venta.totalexenta:10:L|]
+                                                                            [|venta.subtotal:10:L|]
+                                                                            [|venta.retenido:10:L|]
+                                                                            [|venta.total:10:L|]
